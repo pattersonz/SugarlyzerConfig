@@ -221,3 +221,6 @@
 #undef _RESTORECON_H_
 #undef _SELINUX_H_
 #undef _DMALLOC_H_
+#undef _STRUCT_TIMESPEC
+#undef _PTHREAD_H
+
