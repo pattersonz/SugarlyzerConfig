@@ -127,3 +127,5 @@
 #undef __ANDROID__
 #undef __CYGWIN__
 #define __wur
+#undef __OPTIMIZE__
+#undef _FORTIFY_SOURCE
